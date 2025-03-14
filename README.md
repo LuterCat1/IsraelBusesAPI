@@ -3,6 +3,3 @@
 
 
 
-# Insomnia WorkSpace
-
-insomnia://app/import?uri=http://lutercat.com/insomnia.json - OPEN THIS LINK
