@@ -5,4 +5,4 @@
 
 # Insomnia WorkSpace
 
-## [CLICK HERE TO IMPORT](insomnia://app/import?uri=http://lutercat.com/insomnia.json)
+ [CLICK HERE TO IMPORT](insomnia://app/import?uri=http://lutercat.com/insomnia.json)
